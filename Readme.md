@@ -1,4 +1,4 @@
-# A simple crud ANGULAR-ASPNETCORE
+# A simple crud VUEJS-ASPNETCORE
 
 ## VueJs and ASPNETCORE 2.1 and entity framework as ORM.
 
